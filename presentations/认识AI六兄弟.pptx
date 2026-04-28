@@ -1,0 +1,17 @@
+Placeholder: PPTX generation not completed in this environment.
+
+我尝试为你生成名为 “认识AI六兄弟.pptx” 的 PowerPoint 文件并上传到本仓库。但在当前运行环境中，直接创建复杂的二进制 Office Open XML (.pptx) 包并嵌入图片可能会失败或产生不可打开的文件。
+
+为保证内容不会丢失，我已把本次演示的完整幻灯片源（markdown + 讲稿与图片链接）放在同一仓库的 presentations/认识AI六兄弟-source/README.md 中。你可以直接下载该 README 或让我继续把这些源转换为真实 PPTX（需要额外的方法：使用我尝试生成 PPTX 的二次尝试，或你授权 Google Drive, 或让我把源文件发给你以本地转换）。
+
+如果你希望我现在就再次尝试直接生成二进制 PPTX 并替换此占位文件，请回复“再次尝试 PPTX”，我会执行生成尝试并回报结果。
+
+—— 生成说明（自动提交）
+包含内容：
+- presentations/认识AI六兄弟-source/README.md （幻灯片源，中文，带演讲备注与图片建议）
+
+如需直接下载当前“源文件”并在本地生成 PPTX：
+1) 克隆仓库
+2) 在本地使用 Pandoc/Marp/PowerPoint 将 Markdown 转换为 PPTX，或在 PowerPoint 中通过“新建幻灯片->从大纲”导入文本
+
+谢谢！
